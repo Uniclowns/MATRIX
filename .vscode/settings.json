@@ -1,4 +1,5 @@
 {
-    "editor.formatOnSave": true,
-    "livePreview.defaultPreviewPath": "/index.html"
+  "editor.formatOnSave": true,
+  "livePreview.defaultPreviewPath": "/index.html",
+  "css.customData": [".vscode/tailwind.json"]
 }
